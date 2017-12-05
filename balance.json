@@ -1,7 +1,7 @@
 {
   "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
   "updateDate": "2017-12-05T11:45:00.0Z",
-  "bank": "ING",
-  "amount": "100",
+  "titleText": "ING balance is",
+  "mainText": "100",
   "redirectionUrl": "https://mijn.ing.nl"
 }
